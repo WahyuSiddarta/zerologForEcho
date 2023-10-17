@@ -1,4 +1,4 @@
-package zerologforecho
+package zerologForEcho
 
 import (
 	"fmt"
