@@ -1,4 +1,4 @@
-module zerologForEcho
+module github.com/WahyuSiddarta/zerologForEcho
 
 go 1.20
 
