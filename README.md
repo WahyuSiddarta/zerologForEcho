@@ -5,7 +5,7 @@ same as [https://github.com/tomruk/zap4echo](https://github.com/tomruk/zap4echo)
 
 <a name="section-1"></a> [Usage](#section-1)
 
-```
+```go
 logger := zerolog.New(os.Stderr).With().Timestamp().Logger()
 
 e.Use(
